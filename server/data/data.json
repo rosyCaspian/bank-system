@@ -1,0 +1,17 @@
+[
+    {"id":32,"name":"Penny","type_of_customer":"private","current_acccount":1000,"savings_account":1000,"gender":"male"},
+    {"id":2,"name":"Sue","type_of_customer":"private","current_acccount":2000,"savings_account":0,"gender":"male"},
+    {"id":3,"name":"Angus","type_of_customer":"private","current_acccount":100,"savings_account":100,"gender":"female"},
+    {"id":4,"name":"Toys","type_of_customer":"business","current_acccount":4000,"savings_account":3000,"gender":"male"},
+    {"id":5,"name":"Letters","type_of_customer":"business","current_acccount":3000,"savings_account":2000,"gender":"male"},
+    {"id":6,"name":"John","type_of_customer":"business","current_acccount":5000,"savings_account":1000,"gender":"female"},
+    {"id":6,"name":"John","type_of_customer":"business","current_acccount":5000,"savings_account":1000,"gender":"female"},
+    {"id":6,"name":"John","type_of_customer":"business","current_acccount":5000,"savings_account":1000,"gender":"female"},
+    {"id":6,"name":"John","type_of_customer":"business","current_acccount":5000,"savings_account":1000,"gender":"female"},
+    {"id":6,"name":"John","type_of_customer":"business","current_acccount":5000,"savings_account":1000,"gender":"female"},
+    {"id":6,"name":"John","type_of_customer":"business","current_acccount":5000,"savings_account":1000,"gender":"female"},
+    {"id":6,"name":"John","type_of_customer":"business","current_acccount":5000,"savings_account":1000,"gender":"female"},
+    {"id":6,"name":"John","type_of_customer":"business","current_acccount":5000,"savings_account":1000,"gender":"female"},
+    {"id":6,"name":"John","type_of_customer":"business","current_acccount":5000,"savings_account":1000,"gender":"female"},
+    {"id":6,"name":"John","type_of_customer":"business","current_acccount":5000,"savings_account":1000,"gender":"female"}
+]
